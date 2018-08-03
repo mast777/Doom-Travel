@@ -1,0 +1,30 @@
+{
+  "name": "doom travel",
+  "version": "1.0.0",
+  "description": "Project for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Sniga",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-css-unit": "^1.2.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.3.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-webpack": "^1.5.0",
+    "node-sass": "^4.9.2",
+    "smart-grid": "^2.1.1",
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "webpack": "^4.15.1"
+  },
+  "dependencies": {}
+}
